@@ -67,15 +67,15 @@ Sem MakeFile
 
 ### 01 | Operações: impressão formatada 
 
-- [L0 - Soma @tres inteiros]()
-- [L0 - Dividindo: resultado e @resto]()
-- [L0 - @media de dois inteiros]()
-- [L0 - Quanto @sobrou]()
-- [L0 - Converte @segundos]()
-- [L0 - Converte de @celsius para Fahrenheit]()
-- [L1 - Divisao inteira e @quebrada]()
-- [L1 - @operacoes basicas]()
-- [L2 - Formatando @data]()
+- [L0 - Soma @tres inteiros](/base/Operações%20-%20Impressesão%20formatada/L0%20-%20Soma%20@tres%20inteiros/)
+- [L0 - Dividindo: resultado e @resto](/base/Operações%20-%20Impressesão%20formatada/L0%20-%20Dividindo%20resultado%20e%20@resto/)
+- [L0 - @media de dois inteiros](/base/Operações%20-%20Impressesão%20formatada/L0%20-%20@media%20de%20dois%20inteiros/)
+- [L0 - Quanto @sobrou](/base/Operações%20-%20Impressesão%20formatada/L0%20-%20Quanto%20@sobrou/)
+- [L0 - Converte @segundos](/base/Operações%20-%20Impressesão%20formatada/L0%20-%20Converte%20@segundos/)
+- [L0 - Converte de @celsius para Fahrenheit](/base/Operações%20-%20Impressesão%20formatada/L0%20-%20Conversor%20de%20@clelsius%20para%20Fahrenheit/)
+- [L1 - Divisao inteira e @quebrada](/base/Operações%20-%20Impressesão%20formatada/L1%20-%20Divisão%20Interira%20e%20@quebrada/)
+- [L1 - @operacoes basicas](/base/Operações%20-%20Impressesão%20formatada/L2%20-%20@operacoes%20basicas/)
+- [L2 - Formatando @data](/base/Operações%20-%20Impressesão%20formatada/L2%20-%20Formatando%20@data/)
 
 <br>
 
