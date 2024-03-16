@@ -18,4 +18,4 @@ mes = entrada
 entrada = input()
 ano = entrada
 
-print("%s:%s %s/%s/%s" % (hora.zfill(2), minuto.zfill(2), dia.zfill(2), mes.zfill(2), ano[-2:] ))
+print("%s:%s %s/%s/%s" % (hora.zfill(2  ), minuto.zfill(2), dia.zfill(2), mes.zfill(2), ano[-2:] ))

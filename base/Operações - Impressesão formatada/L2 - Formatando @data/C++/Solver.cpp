@@ -4,7 +4,7 @@
 // Repositório original das questões: https://github.com/qxcodefup/arcade/blob/master/base/resto/Readme.md
 
 #include <iostream>
-#include <iomanip>
+#include <iomanip> 
 
 int main()
 {
