@@ -84,7 +84,10 @@ Sem MakeFile
 
 ### 02 | Operações: Biblioteca Math 
 
-
+- [L2 - @pintando a casa](/base/Operações%20-%20Biblioteca%20Math/L2%20-%20@pintando%20a%20casa/)
+- [L2 - @opela bebedor](/base/Operações%20-%20Biblioteca%20Math/L2%20-%20@opala%20bebedor/)
+- [L2 - Comprando @tv parcelada](/base/Operações%20-%20Biblioteca%20Math/L2%20-%20Comprando%20@tv%20parcelada/)
+- [L2 - Mete @bala](/base/Operações%20-%20Biblioteca%20Math/L2%20-%20Mete%20@bala/)
 
 <br>
 
@@ -93,6 +96,21 @@ Sem MakeFile
 
 ### 03 | Seleção: Manipulação
 
+- [L1 - @calculadra Numérica](/base/03%20.%20Seleção%20-%20Manipulação/L1%20-%20@calculadora%20Numérica/)
+- [L1 - Plantação de @morangos](/base/03%20.%20Seleção%20-%20Manipulação/L1%20-%20Plantação%20de%20@morangos/)
+- [L1 - @impedido](/base/03%20.%20Seleção%20-%20Manipulação/L1%20-%20@impedido/)
+- [L1 - @chave - Positivo, Nulo ou Negativo](/base/03%20.%20Seleção%20-%20Manipulação/L1%20-%20chaves%20-%20Positivo%20@nulo%20ou%20negativo/)
+- [L1 - Cláusulas de @guarda](/base/03%20.%20Seleção%20-%20Manipulação/L1%20-%20Cláusulas%20de%20@guarda/)
+- [L2 - Fiquei de @final](/base/03%20.%20Seleção%20-%20Manipulação/L2%20-%20Fique%20de%20@final/)
+- [L2 - Está @trabalhando ou não](/base/03%20.%20Seleção%20-%20Manipulação/L2%20-%20Está%20@trabalhado%20ou%20não/)
+- [L2 - @drone de Entrega - OBI 2017 - Fase 1](/base/03%20.%20Seleção%20-%20Manipulação/L2%20-%20@drine%20de%20Entrega%20-%20OBI%202017%20-%20Fase%201/)
+- [L2 - Triângulo de @varetas](/base/03%20.%20Seleção%20-%20Manipulação/L2%20-%20Triângulo%20de%20@varetas/)
+- [L0 - É 3 @ou 5](/base/03%20.%20Seleção%20-%20Manipulação/L0%20-%20É%203%20ou%205/)
+- [L0 - É @positivio](/base/03%20.%20Seleção%20-%20Manipulação/L0%20-%20É%20@positivo/)
+- [L0 - @maxino entre dois números](/base/03%20.%20Seleção%20-%20Manipulação/L0%20-%20@maximo%20entre%20dois%20números/)
+- [L0 - @multiplo de sete](/base/03%20.%20Seleção%20-%20Manipulação/L0%20-%20@multiplo%20de%20sete/)
+- [L0 - @par ou impar](/base/03%20.%20Seleção%20-%20Manipulação/L0%20-%20@par%20ou%20impar/)
+- [L0 - Positivo, @nulo ou negativo](/base/03%20.%20Seleção%20-%20Manipulação/L0%20-%20Positivo,%20@nulo%20ou%20negativo/)
 
 
 <br>
