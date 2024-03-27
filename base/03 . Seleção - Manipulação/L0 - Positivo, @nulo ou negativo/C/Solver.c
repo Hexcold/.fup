@@ -7,6 +7,20 @@
 
 int main()
 {
+    int numero = 0;
+    scanf("%d", &numero);
 
+    if (numero > 0)
+    {
+        printf("+\n");
+    }
+    else if (numero < 0)
+    {
+        printf("-\n");
+    }
+    else
+    {
+        printf("0\n");
+    }
     return 0;
 }

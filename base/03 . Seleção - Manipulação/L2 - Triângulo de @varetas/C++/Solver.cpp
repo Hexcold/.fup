@@ -7,6 +7,17 @@
 
 int main()
 {
+    int a = 0, b = 0, c = 0;
+    std::cin >> a >> b >> c;
+
+    if ((a + b <= c) || (b + c <= a) || (a + c <= b))
+    {
+        std::cout << "False" << std::endl;
+    }
+    else
+    {
+        std::cout << "True" << std::endl;
+    }
 
     return 0;
 }

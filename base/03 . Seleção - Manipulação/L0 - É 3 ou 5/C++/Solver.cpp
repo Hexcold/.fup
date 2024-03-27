@@ -7,6 +7,15 @@
 
 int main()
 {
+    int numero = 0;
+
+    std::cin >> numero;
+
+    if(numero == 3 || numero == 5){
+        std::cout << "SIM" << std::endl;
+    } else {
+        std::cout << "NAO" << std::endl;
+    }
 
     return 0;
 }

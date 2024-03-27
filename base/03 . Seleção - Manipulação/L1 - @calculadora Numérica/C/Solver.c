@@ -7,6 +7,27 @@
 
 int main()
 {
+    int numb01, numb02;
+    char tipo;
+
+    scanf("%d%d %c", &numb01, &numb02, &tipo);
+
+    if (tipo == '+')
+    {
+        printf("%d\n", numb01 + numb02);
+    }
+    else if (tipo == '-')
+    {
+        printf("%d\n", numb01 - numb02);
+    }
+    else if (tipo == '*')
+    {
+        printf("%d\n", numb01 * numb02);
+    }
+    else
+    {
+        printf("%d\n", numb01 / numb02);
+    }
 
     return 0;
 }

@@ -7,6 +7,17 @@
 
 int main()
 {
+    int numero = 0;
 
+    std::cin >> numero;
+
+    if (numero >= 0)
+    {
+        std::cout << "SIM" << std::endl;
+    }
+    else
+    {
+        std::cout << std::endl;
+    }
     return 0;
 }

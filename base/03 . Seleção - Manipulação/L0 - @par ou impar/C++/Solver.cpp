@@ -7,6 +7,14 @@
 
 int main()
 {
+    int numero = 0;
+    
+    std::cin >> numero;
 
+    if(numero % 2 == 0) {
+        std::cout << "PAR" << std::endl;
+    } else {
+        std::cout << "IMPAR" << std::endl;
+    }
     return 0;
 }

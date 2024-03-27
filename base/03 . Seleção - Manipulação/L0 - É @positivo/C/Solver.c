@@ -7,6 +7,17 @@
 
 int main()
 {
+    int numero = 0;
 
+    scanf("%d", &numero);
+
+    if (numero >= 0)
+    {
+        printf("SIM\n");
+    }
+    else
+    {
+        printf("\n");
+    }
     return 0;
 }

@@ -7,6 +7,18 @@
 
 int main()
 {
+    int numero = 0;
+
+    scanf("%d", &numero);
+
+    if (numero == 3 || numero == 5)
+    {
+        printf("SIM\n");
+    }
+    else
+    {
+        printf("NAO\n");
+    }
 
     return 0;
 }

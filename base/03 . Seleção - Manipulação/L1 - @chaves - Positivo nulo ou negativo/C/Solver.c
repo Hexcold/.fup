@@ -3,10 +3,24 @@
 // Repositório online: https://github.com/Hexcold
 // Repositório original das questões: https://github.com/qxcodefup/arcade/blob/master/base/resto/Readme.md
 
-#include <iostream>
+#include <stdio.h>
 
 int main()
 {
+    int numero = 0;
+    scanf("%d", &numero);
 
+    if (numero > 0)
+    {
+        printf("positivo\n");
+    }
+    else if (numero < 0)
+    {
+        printf("negativo\n");
+    }
+    else
+    {
+        printf("nulo\n");
+    }
     return 0;
 }

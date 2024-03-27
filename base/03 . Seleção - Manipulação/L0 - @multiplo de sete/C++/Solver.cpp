@@ -7,6 +7,17 @@
 
 int main()
 {
+    int numero = 0;
 
+    std::cin >> numero;
+
+    if (numero % 7 == 0)
+    {
+        std::cout << "SIM" << std::endl;
+    }
+    else
+    {
+        std::cout << "NAO" << std::endl;
+    }
     return 0;
 }

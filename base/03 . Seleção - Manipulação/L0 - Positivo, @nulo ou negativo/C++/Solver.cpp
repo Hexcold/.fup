@@ -7,6 +7,16 @@
 
 int main()
 {
+    int numero = 0;
+    
+    std::cin >> numero;
 
+    if(numero > 0){
+        std::cout << "+" << std::endl;
+    } else if (numero < 0) {
+        std::cout << "-" << std::endl;
+    } else {
+        std::cout << "0" << std::endl;
+    }
     return 0;
 }
