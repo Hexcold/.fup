@@ -67,15 +67,15 @@ Sem MakeFile
 
 ### 01 | Operações: impressão formatada 
 
-- [L0 - Soma @tres inteiros](/base/Operações%20-%20Impressesão%20formatada/L0%20-%20Soma%20@tres%20inteiros/)
-- [L0 - Dividindo: resultado e @resto](/base/Operações%20-%20Impressesão%20formatada/L0%20-%20Dividindo%20resultado%20e%20@resto/)
-- [L0 - @media de dois inteiros](/base/Operações%20-%20Impressesão%20formatada/L0%20-%20@media%20de%20dois%20inteiros/)
-- [L0 - Quanto @sobrou](/base/Operações%20-%20Impressesão%20formatada/L0%20-%20Quanto%20@sobrou/)
-- [L0 - Converte @segundos](/base/Operações%20-%20Impressesão%20formatada/L0%20-%20Converte%20@segundos/)
-- [L0 - Converte de @celsius para Fahrenheit](/base/Operações%20-%20Impressesão%20formatada/L0%20-%20Conversor%20de%20@clelsius%20para%20Fahrenheit/)
-- [L1 - Divisao inteira e @quebrada](/base/Operações%20-%20Impressesão%20formatada/L1%20-%20Divisão%20Interira%20e%20@quebrada/)
-- [L1 - @operacoes basicas](/base/Operações%20-%20Impressesão%20formatada/L2%20-%20@operacoes%20basicas/)
-- [L2 - Formatando @data](/base/Operações%20-%20Impressesão%20formatada/L2%20-%20Formatando%20@data/)
+- [L0 - Soma @tres inteiros](/base/01%20.%20Operações%20-%20Impressão%20formatada/L0%20-%20Soma%20@tres%20inteiros/)
+- [L0 - Dividindo: resultado e @resto](/base/01%20.%20Operações%20-%20Impressão%20formatada/L0%20-%20Dividindo%20resultado%20e%20@resto/)
+- [L0 - @media de dois inteiros](/base/01%20.%20Operações%20-%20Impressão%20formatada/L0%20-%20@media%20de%20dois%20inteiros/)
+- [L0 - Quanto @sobrou](/base/01%20.%20Operações%20-%20Impressão%20formatada/L0%20-%20Quanto%20@sobrou/)
+- [L0 - Converte @segundos](/base/01%20.%20Operações%20-%20Impressão%20formatada/L0%20-%20Converte%20@segundos/)
+- [L0 - Converte de @celsius para Fahrenheit](/base/01%20.%20Operações%20-%20Impressão%20formatada/L0%20-%20Conversor%20de%20@clelsius%20para%20Fahrenheit/)
+- [L1 - Divisao inteira e @quebrada](/base/01%20.%20Operações%20-%20Impressão%20formatada/L1%20-%20Divisão%20Interira%20e%20@quebrada/)
+- [L1 - @operacoes basicas](/base/01%20.%20Operações%20-%20Impressão%20formatada/L2%20-%20@operacoes%20basicas/)
+- [L2 - Formatando @data](/base/01%20.%20Operações%20-%20Impressão%20formatada/L2%20-%20Formatando%20@data/)
 
 <br>
 
@@ -84,10 +84,10 @@ Sem MakeFile
 
 ### 02 | Operações: Biblioteca Math 
 
-- [L2 - @pintando a casa](/base/Operações%20-%20Biblioteca%20Math/L2%20-%20@pintando%20a%20casa/)
-- [L2 - @opela bebedor](/base/Operações%20-%20Biblioteca%20Math/L2%20-%20@opala%20bebedor/)
-- [L2 - Comprando @tv parcelada](/base/Operações%20-%20Biblioteca%20Math/L2%20-%20Comprando%20@tv%20parcelada/)
-- [L2 - Mete @bala](/base/Operações%20-%20Biblioteca%20Math/L2%20-%20Mete%20@bala/)
+- [L2 - @pintando a casa](/base/02%20.%20Operações%20-%20Biblioteca%20Math/L2%20-%20@pintando%20a%20casa/)
+- [L2 - @opala bebedor](/base/02%20.%20Operações%20-%20Biblioteca%20Math/L2%20-%20@opala%20bebedor/)
+- [L2 - Comprando @tv parcelada](/base/02%20.%20Operações%20-%20Biblioteca%20Math/L2%20-%20Comprando%20@tv%20parcelada/)
+- [L2 - Mete @bala](/base/02%20.%20Operações%20-%20Biblioteca%20Math/L2%20-%20Mete%20@bala/)
 
 <br>
 
@@ -120,6 +120,11 @@ Sem MakeFile
 
 ### 04 | Seleção: Biblioteca Math
 
+- [L2 - @arredondar número](/base/04%20.%20Seleção%20-%20Biblioteca%20Math/L2%20-%20@arredondar%20número/)
+- [L2 - Fórmula de @bhaskara](/base/04%20.%20Seleção%20-%20Biblioteca%20Math/L2%20-%20Fórmula%20de%20@bhaskara/)
+- [L2 - Hora do @chute - Quem chega mais perto](/base/04%20.%20Seleção%20-%20Biblioteca%20Math/L2%20-%20Hora%20do%20@chute%20-%20Quem%20chega%20mais%20perto/)
+- [L2 - Hora do chute - @maior ou menor](/base/04%20.%20Seleção%20-%20Biblioteca%20Math/L2%20-%20Hora%20do%20chute%20-%20@maior%20ou%20menor/)
+
 <br>
 
 
@@ -127,7 +132,12 @@ Sem MakeFile
 
 ### 05 | Seleção: Lógica
 
-
+- [L1 - @quantos são iguais](/base/05%20.%20Seleção%20-%20Lógica/L1%20-%20@quantos%20são%20iguais/)
+- [L1 - Frota de @taxi - OBI 2005](/base/05%20.%20Seleção%20-%20Lógica/L1%20-%20Frota%20de%20@taxi%20-%20OBI%202005/)
+- [L2 - @jokenpo das tartarugas](/base/05%20.%20Seleção%20-%20Lógica/L2%20-%20@jokenpo%20das%20tartarugas/)
+- [L2 - @zerinho ou Um](/base/05%20.%20Seleção%20-%20Lógica/L2%20-%20@zerinho%20ou%20Um/)
+- [L2 - Jogo de par ou @impar - QBI 2016 - F1P1](/base/05%20.%20Seleção%20-%20Lógica/L2%20-%20Jogo%20de%20par%20ou%20@impar%20-%20QBI%202016%20-%20F1P1/)
+- [L2 - Nota @cortada - OBI 2019 F1P1](/base/05%20.%20Seleção%20-%20Lógica/L2%20-%20Nota%20@cortada%20-%20OBI%202019%20F1P1/)
 
 <br>
 
