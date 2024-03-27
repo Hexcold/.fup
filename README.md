@@ -7,7 +7,7 @@
 #### Aqui vou destacar algumas informações base para todos que forem analisar estes códigos!
 
 #
-
+<!--
 ### MakeFile
 Os arquivos MakeFile são utilizados para facilitar na hora de executar os comandos no terminal. Aqui vai o que cada comando faz e na linha abaixo o código sem MakeFile
 
@@ -45,7 +45,7 @@ Com MakeFile
     > tko run Solver.py cases.tio
 Sem MakeFile
 
-
+-->
 <br>
 
 ***
