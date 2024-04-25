@@ -1,0 +1,64 @@
+>>>>>>>> Tolerante ex1%
+70
+90
+80
+80
+========
+Negativo
+<<<<<<<<
+
+>>>>>>>> Tolerante ex2%
+70
+75
+90
+89
+========
+Negativo
+<<<<<<<<
+
+>>>>>>>>Tolerante ex3%
+80
+85
+90
+100
+========
+Negativo
+<<<<<<<<
+
+>>>>>>>> Não tolerante ex2%
+90
+112
+112
+112
+========
+Negativo
+<<<<<<<<
+
+
+>>>>>>>> Intolerante limite%
+70
+75
+80
+89
+========
+Positivo
+<<<<<<<<
+
+>>>>>>>> Muito intolerante%
+85
+90
+91
+91
+========
+Positivo
+<<<<<<<<
+
+
+>>>>>>>> Muito intolerante%
+90
+109
+108
+107
+========
+Positivo
+<<<<<<<<
